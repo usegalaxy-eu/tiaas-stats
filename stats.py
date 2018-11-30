@@ -53,7 +53,8 @@ def points(date):
         }
 
         values = {
-            'students': event['people']
+            'students': int(event['people']),
+            'status': 1,
         }
 
         for location in event['location']:
