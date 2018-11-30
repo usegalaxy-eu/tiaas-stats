@@ -1,1 +1,2 @@
 icalendar==4.0.3
+influxdb==5.2.0
