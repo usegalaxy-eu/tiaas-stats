@@ -1,6 +1,3 @@
-# TIaaS Calendar and Stats
+# Replaced by [TIaaS v2](https://github.com/usegalaxy-eu/tiaas2)**
 
-
-## LICENSE
-
-GPLv3
+Now deprecated.
